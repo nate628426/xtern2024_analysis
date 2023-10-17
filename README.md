@@ -2,11 +2,11 @@
 
 ## Table Of Contents:
 
-Exploratory Data Analysis Work: "exploratory_analysis.ipynb" and "Initial Exploratory Data Analysis Report.pdf"
+Exploratory Data Analysis Work: "exploratory_analysis.ipynb" and "XTern Combined Final Write-Up.pdf"
 
 Ethical, Business, and Technical Implications: "Ethical, Business Outcome, Technical Implications.pdf"
 
-Predictive Model: "Predictive Model Outline.pdf" and "pred_order_model.ipynb"
+Predictive Model: "XTern Combined Final Write-Up.pdf" and "pred_order_model.ipynb"
 
 additional resources: 
  - the provided dataset, "XTern_AI_Data.csv"
