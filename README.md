@@ -2,7 +2,7 @@
 
 ## Table Of Contents:
 
-Exploratory Data Analysis Work: "exploratory_analysis.ipynb" and "XTern Combined Final Write-Up.pdf"
+Exploratory Data Analysis Work: Refer to "exploratory_analysis.ipynb" for visuals and "XTern Combined Final Write-Up.pdf" for written analysis.
 
 Ethical, Business, and Technical Implications: "Ethical, Business Outcome, Technical Implications.pdf"
 
